@@ -14,6 +14,7 @@ public class VisitanteEdificio {
         float tiempoVisita = 2.5f;
         double saldoCuenta = 1500.75;
 
+
         // Información del edificio
         String direccion = "Calle Principal, No. 123";
         int numDepartamentos = 10;
